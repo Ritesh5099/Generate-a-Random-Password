@@ -6,4 +6,4 @@ It provides users with the ability to generate secure random passwords of a spec
 The application features a user-friendly interface with options to generate and copy passwords, enhancing online security by enabling the creation of strong, unique passwords easily.
 
 
-link :
+link:https://ritesh5099.github.io/Generate-a-Random-Password/
